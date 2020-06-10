@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553201468 source:c:\users\axelg\onedrive\documents\dvc\spring 19\comsc 200\as07\as07\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
